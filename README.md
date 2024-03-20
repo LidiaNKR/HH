@@ -5,29 +5,29 @@
 # Интерфейс
 1. Экран входа в аккаунт, с валидацией введенного email.
 
-![product-screenshot](Images/login.gif)
+![product-screenshot](Images/login.png)
 
 2. Экран ввода смс пароля, с валидацией наличия введенных 4-х цифр
 
-![product-screenshot](Images/sms.gif)
+![product-screenshot](Images/sms.png)
 
 3. Экран с списком вакансий.
 По нажатию на кнопку лайк, вакансия сохраняется/удаляется из избранного.
 Сохранение происходит в локальную бд
 По нажатию на ячейку производится переход на экран детальной информации по вакансии
 
-![product-screenshot](Images/vacancies.gif)
+![product-screenshot](Images/vacancies.png)
 
 3. Экран с списком избранных вакансий.
 По нажатию на кнопку лайк, вакансия сохраняется/удаляется из избранного.
 Сохранение происходит в локальную бд
 По нажатию на ячейку производится переход на экран детальной информации по вакансии
 
-![product-screenshot](Images/favorites.gif)
+![product-screenshot](Images/favorites.png)
 
 4. Экран с детальной информацией по вакансии
 
-![product-screenshot](Images/description.gif)
+![product-screenshot](Images/description.png)
 
 # Используемый стек технологий
 - Язык программирования - `Swift`
