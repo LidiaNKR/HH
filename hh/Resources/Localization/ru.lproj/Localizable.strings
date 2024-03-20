@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  hh
+
+  Created by Лидия Некрасова on 14.03.2024.
+  
+*/
+
+//TabBar
+"app.tab.vacancies" = "Поиск";
+"app.tab.favorites" = "Избранное";
+"app.tab.responses" = "Отклики";
+"app.tab.messages" = "Сообщения";
+"app.tab.profile" = "Профиль";
+
+//Login
+"loginTitle" = "Вход в личный кабинет";
+
+"loginApplicantTitle" = "Поиск работы";
+"loginApplicantPlaceholder" = "Электронная почта или телефон";
+"notValidEmail" = "Вы ввели неверный email";
+"loginApplicantButtonTitle" = "Войти с паролем";
+"continue" = "Продолжить";
+
+"loginEmployerTitle" = "Поиск сотрудников";
+"loginEmployerText" = "Размещение вакансий и доступ к базе резюме";
+"loginEmployerButtonTitle" = "Я ищу сотрудников";
+
+//CodeValidation
+"сodeValidationTitle" = "Отправили код на ";
+"сodeValidationText" = "Напишите его, чтобы подтвердить, что это вы, а не кто-то другой входит в личный кабинет";
+"сodeValidationButtonTitle" = "Подтвердить";
+
+//Vacancies
+"vacanciesTitle" = "Вакансии для Вас";
+"favoritesTitle" = "Избранное";
+
+"searchPlaceholder" = "Должность, ключевые слова";
+"vacanciesNearYou" = "Вакансии рядом с Вами";
+"getUpResume" = "Поднять резюме в списке";
+"getUpButtonTitle" = "Поднять";
+"temporaryWork" = "Временная работа и подработка";
+"currentlyViewing" = "Сейчас просматривает ";
+"published" = "Опубликовано ";
+"respond" = "Откликнуться";
+
+//VacancyDescription
+"experience" = "Требуемый опыт: ";
+"responses" = " уже откликнулись";
+"viewers" = " сейчас смотрят";
+"tasksTitle" = "Ваши задачи";
+"questionTitle" = "Задайте вопрос работодателю";
+"questionText" = "Он получит его с откликом на вакансию";
+
+//Declined
+"person" = "человек";
+"persons" = "человека";
+"manyPersons" = "человек";
+
+"vacancy" = "вакансия";
+"vacancies" = "вакансии";
+"manyVacancies" = "вакансий";
+
+//DateFormatter
+"january" = "января";
+"february" = "февраля";
+"march" = "марта";
+"april" = "апреля";
+"may" = "мая";
+"june" = "июня";
+"july" = "июля";
+"august" = "августа";
+"september" = "сентября";
+"october" = "октября";
+"november" = "ноября";
+"december" = "декабря";

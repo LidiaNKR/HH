@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct hhApp: App {
+    
+    @StateObject private var coordinator = AppCoordinator()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
+                .environmentObject(coordinator)
+                .environment(\.colorScheme, .dark)
         }
     }
 }

@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  hh
+
+  Created by Лидия Некрасова on 14.03.2024.
+  
+*/
+
+//TabBar
+"app.tab.vacancies" = "Search";
+"app.tab.favorites" = "Favorites";
+"app.tab.responses" = "Responses";
+"app.tab.messages" = "Messages";
+"app.tab.profile" = "Profile";
+
+//Login
+"loginTitle" = "Login to your personal account";
+
+"loginApplicantTitle" = "Job Search";
+"loginApplicantPlaceholder" = "Email or phone";
+"notValidEmail" = "You have entered an incorrect email";
+"loginApplicantButtonTitle" = "Login with password";
+"continue" = "Continue";
+
+"loginEmployerTitle" = "Employee search";
+"loginEmployerText" = "Posting vacancies and accessing the resume database";
+"loginEmployerButtonTitle" = "I'm looking for employees";
+
+//CodeValidation
+"сodeValidationTitle" = "Sent the code to ";
+"сodeValidationText" = "Write this to confirm that it is you and not someone else logging into your personal account";
+"сodeValidationButtonTitle" = "Verify";
+
+//Vacancies
+"vacanciesTitle" = "Vacancies for you";
+"favoritesTitle" = "Favorites";
+
+"searchPlaceholder" = "Position, keywords";
+"vacanciesNearYou" = "Vacancies near you";
+"getUpResume" = "Upper resume in the list";
+"getUpButtonTitle" = "Up";
+"temporaryWork" = "Temporary work and part-time work";
+"currentlyViewing" = "Currently viewing ";
+"published" = "Published ";
+"respond" = "Respond";
+
+//VacancyDescription
+"experience" = "Experience required: ";
+"responses" = " already responded";
+"viewers" = " currently watching";
+"tasksTitle" = "Your tasks";
+"questionTitle" = "Ask your employer a question";
+"questionText" = "He will receive it with his job application";
+
+//Declined
+"person" = "person";
+"persons" = "persons";
+"manyPersons" = "persons";
+
+"vacancy" = "vacancy";
+"vacancies" = "vacancies";
+"manyVacancies" = "vacancies";
+
+//DateFormatter
+"january" = "january";
+"february" = "february";
+"march" = "march";
+"april" = "april";
+"may" = "may";
+"june" = "june";
+"july" = "july";
+"august" = "august";
+"september" = "september";
+"october" = "october";
+"november" = "november";
+"december" = "december";
