@@ -8,7 +8,6 @@
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/LidiaNKR/HH/blob/78599976648849f1cb78b67477cc27d41fe0330c/Images/login.png">
 </p>
-![product-screenshot](Images/login.png)
 
 2. Экран ввода смс пароля, с валидацией наличия введенных 4-х цифр
 
