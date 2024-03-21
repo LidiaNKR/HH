@@ -43,5 +43,6 @@
 - Язык программирования - `Swift`
 - Интерфейс - `SwiftUI`
 - Архитектура - `MVVM+Coordinator`
-- Frameworks: `Combine`, `UserDefaults`
+- Frameworks: `Combine`
+- Хранение данных: `UserDefaults`
 - iOS 16.4+
